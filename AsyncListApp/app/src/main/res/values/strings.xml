@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AsyncListApp</string>
+    <string name="load">Load colors</string>
+</resources>
